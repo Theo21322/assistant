@@ -1,5 +1,5 @@
-# WhatsApp AI Assistant
-
+Ekron Rains Hackers
+The Black Sheep
 Welcome to the WhatsApp AI Assistant repository, where you'll find a remarkable WhatsApp chatbot designed to function as your very own AI-powered personal assistant. This chatbot leverages the power of Language Model (LLM) technology.
 
 |                                                 Sydney                                                 |                                                LangChain                                                |
